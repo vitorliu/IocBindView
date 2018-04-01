@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IocBindView.iml" filepath="$PROJECT_DIR$/IocBindView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iocdemo/iocdemo.iml" filepath="$PROJECT_DIR$/iocdemo/iocdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioclibrary/ioclibrary.iml" filepath="$PROJECT_DIR$/ioclibrary/ioclibrary.iml" />
+    </modules>
+  </component>
+</project>
